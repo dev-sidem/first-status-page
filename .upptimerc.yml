@@ -13,12 +13,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.thetchoumconsulting.com
   # baseUrl: /your-repo-name
   logoUrl: https://thetchoumconsulting.com/wp-content/uploads/2022/02/TTClogo-400x106.png
-  name: Upptime
-  introTitle: "**thetchoumconsulting**  monitor and status page."
-  introMessage: This is a thetchoumconsulting status pages
+  name: Statut de mes services thetchoumconsulting
+  introTitle: "Tableau de bord de surveillance des services"
+  introMessage: Statut en temps réel de nos services
   navbar:
     - title: Status
       href: /
