@@ -6,15 +6,15 @@ sites:
   - name: Myinnercircle
     url: https://myinnercircle.yannicktchoum.com/
   - name: Mka
-    url: mka.thetchoum.com
+    url: https://mka.thetchoum.com/
   - name: App
-    url: app.thetchoum.com
+    url: https://app.thetchoum.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.thetchoumconsulting.com
-  # baseUrl: /your-repo-name
+  #cname: status.thetchoumconsulting.com
+  baseUrl: /first-status-page
   logoUrl: https://thetchoumconsulting.com/wp-content/uploads/2022/02/TTClogo-400x106.png
   name: Statut de mes services thetchoumconsulting
   introTitle: "Tableau de bord de surveillance des services"
