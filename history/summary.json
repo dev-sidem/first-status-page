@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 586,
-    "timeWeek": 638,
-    "timeMonth": 777,
-    "timeYear": 777,
+    "time": 768,
+    "timeDay": 643,
+    "timeWeek": 628,
+    "timeMonth": 768,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mka.thetchoum.com.ico",
     "slug": "mka",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 606,
-    "timeDay": 558,
-    "timeWeek": 595,
-    "timeMonth": 606,
-    "timeYear": 606,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 610,
+    "timeDay": 666,
+    "timeWeek": 605,
+    "timeMonth": 610,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2025-04-28": 18
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 321,
-    "timeWeek": 354,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "time": 346,
+    "timeDay": 324,
+    "timeWeek": 353,
+    "timeMonth": 346,
+    "timeYear": 346,
     "dailyMinutesDown": {}
   }
 ]
