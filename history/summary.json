@@ -22,7 +22,7 @@
     "url": "https://mka.thetchoum.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mka.thetchoum.com.ico",
     "slug": "mka",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 597,
     "timeYear": 620,
     "dailyMinutesDown": {
+      "2025-06-18": 0,
       "2025-05-22": 22,
       "2025-04-28": 18
     }
